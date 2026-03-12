@@ -69,3 +69,18 @@ This LinkedIn post announces that NVIDIA Nemotron 3 Super is available on Ollama
 
 ### English
 This is a release page for OpenClaw. I like saving release links like this because they make it easy to revisit what changed in a specific version, when it shipped, and why that release mattered.
+
+---
+
+## 6. AI Night Shift
+
+- Type: Repo
+- Link: https://github.com/JudyaiLab/ai-night-shift
+- Homepage: https://judyailab.com
+
+### 正體中文
+AI Night Shift 是一個多代理自主框架，目標是讓不同 AI agents 在離峰時間持續協作，把研究、開發、巡檢與整理工作留到「你在睡覺時」持續進行。它把多代理分工、共享協議、排程與 dashboard 結合起來，對想建立夜間自動化工作流的人很有參考價值。
+
+### English
+AI Night Shift is a multi-agent autonomous framework designed to let different AI agents keep working together during off-hours. It combines shared protocols, scheduling, role-based coordination, and a dashboard, making it a useful reference for anyone interested in overnight automation and long-running agent workflows.
+
